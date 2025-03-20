@@ -5,3 +5,6 @@ Journaling is tough. Everyone wants to do it, but who wants to actually keep a d
 
 ## installation
 Install the requirements file and run the Python script! It's just that simple. Note that this cannot be hosted on the Web as it saves local files. 
+
+## compatibility
+It supports all platforms! However, I've only tested it on Mac and Linux (GH Codespaces).
